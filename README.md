@@ -5,7 +5,7 @@ The Curiosity Cup brings student teams together from across the globe for a comp
 
 ## Task / Project Description
 
-Each team were required to choose a topic and dataset for the competition. I as a member of the team of students from Egypt, Australia and Japan have participated into the cup held in 2022. 
+Each team were required to choose a topic and dataset for the competition. I as a team member of the students from Australia, Egypt, and Japan have participated into the cup held in January 2022. 
 
 Our team explored the relation between the length of hospital stay and various factors based on the dataset from https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii. The analysis was held primarily on SAS Studio.
 
@@ -30,8 +30,3 @@ Our project aims to identify LOS predicting factors besides the provision of act
 - Mamiya Adachi
 - Rehab Meckawy
 - Daksh Mukhra
-
-
-## Result / Placement
-
-Currently awaiting
